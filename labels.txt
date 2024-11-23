@@ -1,0 +1,8 @@
+0 Albert Einstein
+1 Isaac Newton
+2 Marie Curie
+3 Julius Robert Oppenheimer
+4 Ibnu Sina
+5 Nikola Tesla
+6 Galileo Galilei
+7 B.J.Habibie
