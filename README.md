@@ -16,3 +16,5 @@ Berikut adalah para Ilmuwan yang tersedia :
 6. Nikola Tesla
 7. Galileo Galilei
 8. B.J.Habibie
+
+Jika ada error yang muncul, harap beritahu saya
